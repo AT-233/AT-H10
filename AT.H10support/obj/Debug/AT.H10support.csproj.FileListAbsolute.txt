@@ -1,0 +1,6 @@
+D:\编程大法好\AT.H10support\bin\Debug\AT.H10support.dll
+D:\编程大法好\AT.H10support\bin\Debug\AT.H10support.pdb
+D:\编程大法好\AT.H10support\obj\Debug\AT.H10support.csproj.AssemblyReference.cache
+D:\编程大法好\AT.H10support\obj\Debug\AT.H10support.csproj.CoreCompileInputs.cache
+D:\编程大法好\AT.H10support\obj\Debug\AT.H10support.dll
+D:\编程大法好\AT.H10support\obj\Debug\AT.H10support.pdb
